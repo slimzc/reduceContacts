@@ -1,3 +1,4 @@
+Testing reduce filter in contact (test for NativeScript-Contact-Lite)
 Just for fun! 😁
 
 ### Install
