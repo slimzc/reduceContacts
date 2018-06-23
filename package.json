@@ -1,0 +1,14 @@
+{
+  "name": "reducecontacts",
+  "version": "1.0.0",
+  "description": "testing reduce filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.10"
+  }
+}
