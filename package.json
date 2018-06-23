@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "testing reduce filter in contact (test for NativeScript-Contact-Lite)",
   "main": "index.js",
+  "repository": "https://github.com/slimzc/reduceContacts.git",
   "scripts": {
     "test": "node index.js"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "lodash": "^4.17.10"
+    "benchmark": "^2.1.4",
+    "lodash": "^4.17.10",
+    "microtime": "^2.1.8"
   }
 }
